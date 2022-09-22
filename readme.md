@@ -1,0 +1,1 @@
+Page is available via link: https://belitskyialexandr.github.io/web2022/
