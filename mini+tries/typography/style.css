@@ -63,7 +63,11 @@
   .header a {
     color: #4A4A4A;
   }
-  
+
+  .header a:hover {
+    color: #4D00FF;
+  }
+
   a.home {
     color: #4D00FF;
   }
